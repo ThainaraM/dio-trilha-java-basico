@@ -1,5 +1,5 @@
 <h1>💻 Desafio: Criando uma Conta Bancária com Java</h1>
-<p>Este projeto faz parte do Bootcamp de Java da Digital Innovation One (DIO). O objetivo do desafio é colocar em prática os conceitos fundamentais de programação orientada a objetos (POO) em Java, através da criação de uma aplicação simples de conta bancária.</p>
+<p>Este projeto faz parte do Bootcamp de Java da Digital Innovation One (DIO). O objetivo do desafio é colocar em prática os conceitos fundamentais de programação orientada a objetos (POO) em Java, através da criação de uma projeto Simulando Uma Conta Bancária Através Do Terminal/Console.</p>
 
 
 ## 🔧 Tecnologias Utilizadas
