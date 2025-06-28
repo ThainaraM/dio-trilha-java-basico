@@ -1,17 +1,15 @@
-## Getting Started
+<h1>💻 Desafio: Criando uma Conta Bancária com Java</h1>
+<p>Este projeto faz parte do Bootcamp de Java da Digital Innovation One (DIO). O objetivo do desafio é colocar em prática os conceitos fundamentais de programação orientada a objetos (POO) em Java, através da criação de uma aplicação simples de conta bancária.</p>
+---
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🔧 Tecnologias Utilizadas
+Java (JDK 8 ou superior)
 
-## Folder Structure
+IDE (VS Code)
 
-The workspace contains two folders by default, where:
+Terminal/Console
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Git (opcional)
 
 ## Dependency Management
 
